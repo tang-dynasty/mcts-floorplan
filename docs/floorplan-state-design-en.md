@@ -1,13 +1,16 @@
 # Floorplanning × Parallel-MCTS — Phase 1 Design
 
 **Project**: parallel-mcts × Chip Floorplanning
+
 **Phase 1 Goal**: State type + Action encoding + Reward formula + Bookshelf parser + Rollout strategies + Unit tests
+
 **Date**: 2026-06-09
 **Status**: Ready for implementation
 **Estimated effort**: 17 person-hours (2.0 work days)
 **Deliverables**: 4 header files + 1 test file + 1 example entry point
 
 > **Provenance**: This document merges
+
 > - §1-§7 from `floorplan-state-design-en.md` (concept-level design: fields, action encoding, reward derivation, tests matrix)
 > - §0-§11 from `floorplan-phase1-detailed-en.md` (concrete C++ code, parser, rollouts, test file, tuning)
 >
